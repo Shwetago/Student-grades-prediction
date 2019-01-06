@@ -1,4 +1,6 @@
 # Student-grades-prediction
+I have taken dataset of Student Alcohol Consumption of two classes: - one is of maths class and other is of portugese langauge class.
+
 
 ## Data Dictionary
 #### Attributes for both student-mat.csv (Math course) and student-por.csv (Portuguese language course) datasets:
